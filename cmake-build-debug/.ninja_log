@@ -1,0 +1,5 @@
+# ninja log v5
+1	168	7189358617981462	build.ninja	24fd38abfba809b2
+2	259	7189357235800923	CMakeFiles/loginSystem.dir/main.cpp.obj	343dbe4016106033
+0	435	7189356767574470	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+260	344	7189357236620925	loginSystem.exe	f9abdec7c92399c0
