@@ -43,13 +43,12 @@ void registerUser(std::string username, std::string password) {
     newFile << username << std::endl;
     newFile.close();
 
-    std::cout << "Enter password: " << std::endl;
+    std::cout << "Enter password: ";
     std::cin >> password;
 
     std::ifstream filePasswords("passwords.txt");
 
-    if (!file.is_open()) {
-
+    if (!filePasswords.is_open()) {
         std::string filename = "passwords.txt";
 
         std::ofstream newFilePasswords(filename);
@@ -63,10 +62,18 @@ void registerUser(std::string username, std::string password) {
 
     std::ofstream newFilePasswords("passwords.txt", std::ios::app);
 
+    if (!newFilePasswords.is_open()) {
+        std::cerr << "Error opening the file for appending." << std::endl;
+        return;
+    }
+
+
     newFilePasswords << username << "|" << password << std::endl;
     newFilePasswords.close();
 
     std::cout << "User registered!" << std::endl;
+
+
 }
 
 

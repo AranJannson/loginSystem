@@ -1,5 +1,18 @@
 # ninja log v5
-1	168	7189358617981462	build.ninja	24fd38abfba809b2
+1	168	7190981510951260	build.ninja	24fd38abfba809b2
 2	259	7189357235800923	CMakeFiles/loginSystem.dir/main.cpp.obj	343dbe4016106033
 0	435	7189356767574470	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
 260	344	7189357236620925	loginSystem.exe	f9abdec7c92399c0
+16	463	7190994184838834	CMakeFiles/loginSystem.dir/main.cpp.obj	343dbe4016106033
+11	481	7190994185049961	CMakeFiles/loginSystem.dir/Login.cpp.obj	c0205147773228d6
+482	716	7190994187351641	loginSystem.exe	8227ea3519d669b1
+2	391	7190995429406431	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+391	593	7190995431386868	loginSystem.exe	8227ea3519d669b1
+4	510	7190998165543518	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+511	658	7190998166975227	loginSystem.exe	8227ea3519d669b1
+3	322	7190998571410272	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+322	402	7190998572177516	loginSystem.exe	8227ea3519d669b1
+2	332	7190999163819347	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+332	416	7190999164634519	loginSystem.exe	8227ea3519d669b1
+4	337	7190999601044414	CMakeFiles/loginSystem.dir/Register.cpp.obj	59e1a489fab90f84
+337	419	7190999601844459	loginSystem.exe	8227ea3519d669b1
