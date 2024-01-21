@@ -2,7 +2,7 @@
 
 A simple login system created in c++, this was a project made in order for me to get a better grasp of the language
 
-Files:
+Files: 
 
 Register.cpp/h 
 
